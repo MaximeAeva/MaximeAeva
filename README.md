@@ -5,4 +5,4 @@
   <img src="https://github.com/MaximeAeva/MaximeAeva/blob/master/hello.gif">
 </p>
 
-[Drop simulation] (https://github.com/MaximeAeva/Dropplet)
+[Drop simulation](https://github.com/MaximeAeva/Dropplet)
